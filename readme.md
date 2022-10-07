@@ -1,0 +1,1 @@
+This is a resume app that has all of my qualities in a object inside of a json file
